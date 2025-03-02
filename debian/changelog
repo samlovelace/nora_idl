@@ -1,0 +1,15 @@
+ros-humble-nora-idl (0.0.2-0jammy) jammy; urgency=high
+
+  * Automated Debian packaging updates
+
+ -- sam <samlovelace12@gmail.com>  Mon, 03 Mar 2025 05:00:00 -0000
+
+ros-humble-nora-idl (0.0.1-0jammy) jammy; urgency=high
+
+  * Initial Debian packaging setup
+  * Added debians.sh for automated .deb creation
+  * Implemented version tracking in debian/changelog
+
+ -- sam <samlovelace12@gmail.com>  Sun, 02 Mar 2025 05:00:00 -0000
+
+
